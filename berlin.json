@@ -1,0 +1,1 @@
+{"error":"Aesthetics must be valid data columns. Problematic aesthetic(s): fill = colors, colour = colors. \nDid you mistype the name of a data column or forget to add after_stat()?"}
